@@ -1,6 +1,6 @@
 # main text of home
 name: Gustavo Ferreira
-bio: Professor and Researcher on Sound and Music Media and Communication
+bio: Researcher on Sound and Music Media and Communication
 
 # twitter summary info
 description: Just a CV, ramblings and research
@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: guzferreira
+twitter: guzferreira
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -53,19 +53,13 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Guzferreira:
+    name: Gustavo Ferreira
+    bio: Researcher on Sound and Music Media and Communication
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
-
+  
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
