@@ -18,29 +18,17 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+<h2>Latest Publications</h2>
+
+
+
+
+
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>de Marchi, L., Kischinhevsky, M., Ferreira, G., & Saldanha, R. M. (2021). O gosto algorítmico: A lógica dos sistemas de recomendação automática de música em serviços de streaming. Fronteiras - estudos midiáticos, 23(3), 16-26. https://doi.org/https://doi.org/10.4013/fem.2021.233.02</li>
+	<li>Ferreira, G., & Saldanha, R. M. (2021). Ruídos do carnaval: política, cultura e paisagens sonoras dos blocos de rua de São Paulo e Rio de Janeiro. Tropos: Comunicação, Sociedade e Cultura, 10(2). https://periodicos.ufac.br/index.php/tropos/article/view/4909</li>
+	<li>Kischinhevsky, M., Ferreira, G., Góes, C., Seidel, A., & Monteiro, L. (2021). Between algorithm and curation - Radio programming, music genres and repetition. Comunicação Mídia e Consumo, 18(51), 165. https://doi.org/10.18568/cmc.v18i51.2216</li>
+	<li>Kischinhevsky, M., Benzecry, L., Mustafá, I., De Marchi, L., Chagas, L., Ferreira, G., Victor, R., & Viana, L. (2017). The consolidation of radio and sound media studies in the XXI century–Conceptual keys and research objects. Intercom-Revista Brasileira de Ciências da Comunicação, 40(3), 91-106. </li>
+	
 </ul>
