@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: guzferreira
 twitter: guzferreira
-# instagram: myinstagram
+instagram: guzferreira
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
