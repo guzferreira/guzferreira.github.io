@@ -21,3 +21,16 @@ layout: page
 	<li>Marcelo Kischinhevsky, Lena Benzecry, Izane Mustafá, Leonardo de Marchi, Luãn Chagas, <b>Gustavo Ferreira</b>, Renata Victor, Luana Viana. (2017). The consolidation of radio and sound media studies in the XXI century–Conceptual keys and research objects. Intercom-Revista Brasileira de Ciências da Comunicação, 40(3), 91-106. <a href="https://doi.org/10.1590/1809-5844201736">https://doi.org/10.1590/1809-5844201736</a></li>
 	
 </ul>
+
+
+<h2>Teaching</h2>
+
+
+<ul class="skill-list">
+	
+	<li><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS611-F2023-21-Aug-23.pdf">COMS 611: Popular Music/Media/Recommender Systems - Fall 2023</a></li><br>
+	<li><b><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS400-F2023-17-Oct-23.pdf">COMS 400: Critical Theory Seminar - Fall 2023</a></li><br>
+ 	<li><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS361-W2023-21-Mar-23.pdf">COMS 361: Selected Topics Communication Studies 1 – Radio and Audio Media Theories - Winter 2023</a></li><br>
+	<li><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS362-W2023-21-Mar-23.pdf">COMS 362: Selected Topics Communication Studies 2 Techlash: Critical studies of technological solutionism - Winter 2023</a></li><br>
+	
+</ul>
