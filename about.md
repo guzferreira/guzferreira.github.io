@@ -31,6 +31,6 @@ layout: page
 	<li><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS611-F2023-21-Aug-23.pdf">COMS 611: Popular Music/Media/Recommender Systems - Fall 2023</a></li><br>
 	<li><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS400-F2023-17-Oct-23.pdf">COMS 400: Critical Theory Seminar - Fall 2023</a></li><br>
  	<li><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS361-W2023-21-Mar-23.pdf">COMS 361: Selected Topics Communication Studies 1 – Radio and Audio Media Theories - Winter 2023</a></li><br>
-	<li><a href="https://github.com/guzferreira/guzferreira.github.io/blob/12ba22738afcf64522658e2d04cb893eca3cfe06/assets/courses/COMS362-W2023-21-Mar-23.pdf">COMS 362: Selected Topics Communication Studies 2 Techlash: Critical studies of technological solutionism - Winter 2023</a></li><br>
+	<li><a href="assets/courses/COMS362-W2023-21-Mar-23.pdf">COMS 362: Selected Topics Communication Studies 2 Techlash: Critical studies of technological solutionism - Winter 2023</a></li><br>
 	
 </ul>
