@@ -1,6 +1,6 @@
 # main text of home
 name: Gustavo Ferreira
-bio: Researcher Communication, Sound and Music Media
+bio: Researcher on Communication, Audio Media, and Music and AI Mediations
 
 # twitter summary info
 description: Just a CV, ramblings and research
@@ -50,12 +50,12 @@ github: guzferreira
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# email: myemail@gmail.com
+email: gustavo.ferreira at mcgill.ca
 
 authors:
   Guzferreira:
     name: Gustavo Ferreira
-    bio: Researcher on Sound and Music Media and Communication
+    bio: Researcher on Communication, Audio Media, and Music and AI Mediations
     external-image: false
     picture: assets/images/profile.jpg
     twitter: guzferreira
@@ -74,7 +74,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
