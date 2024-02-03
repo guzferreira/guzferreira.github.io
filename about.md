@@ -13,6 +13,7 @@ layout: page
 
 <ul class="skill-list">
 	
+	<li>Andres Ferraro, <b>Gustavo Ferreira</b>, Fernando Diaz, Georgina Born. (2024). Measuring Commonality in Recommendation of Cultural Content to Strengthen Cultural Citizenship. ACM Transactions on Recommender Systems, February. <a href="https://doi.org/10.1145/3643138">https://doi.org/10.1145/3643138</a></li><br>
 	<li>Marcelo Kischinhevsky, <b>Gustavo Ferreira</b>, Itala Maduell Vieira. (2023). Serendipity on radio and streaming: Between musical discovery and recognition. New Media & Society, Online First, 14614448231154568. <a href="https://doi.org/0.1177/14614448231154568">https://doi.org/0.1177/14614448231154568</a></li><br>
 	<li><b>Gustavo Ferreira</b>. (2021). A filosofia de programação do algorítmo. Radiofonias: Revista de Estudos em Mídia Sonora, 12(3), 57-85. <a href="https://periodicos.ufop.br/radiofonias/article/view/4771">https://periodicos.ufop.br/radiofonias/article/view/4771</a></li><br>
  	<li>Leonardo de Marchi, Marcelo Kischinhevsky, <b>Gustavo Ferreira</b>, Rafael Machado Saldanha (2021). O gosto algorítmico: A lógica dos sistemas de recomendação automática de música em serviços de streaming. Fronteiras - estudos midiáticos, 23(3), 16-26. <a href="https://doi.org/https://doi.org/10.4013/fem.2021.233.02">https://doi.org/https://doi.org/10.4013/fem.2021.233.02</a></li><br>
