@@ -29,8 +29,8 @@ layout: page
 
 <ul class="skill-list">
 	
-	<li><a href="https://guzferreira.github.io//assets/courses/COMS350-W24-17-Jan-24.pdf">COMS 350: Sound Culture</a></li><br>
-	<li><a href="https://guzferreira.github.io//assets/courses/COMS361-W24-Jan-6.pdf">COMS 361: Selected Topics Communication Studies 1 Techlash: Critical studies of technological solutionism - Winter 2023</a></li><br>
+	<li><a href="https://guzferreira.github.io//assets/courses/COMS350-W24-17-Jan-24.pdf">COMS 350: Sound Culture - Winter 2024</a></li><br>
+	<li><a href="https://guzferreira.github.io//assets/courses/COMS361-W24-Jan-6.pdf">COMS 361: Selected Topics Communication Studies 1 Techlash: Critical studies of technological solutionism - Winter 2024</a></li><br>
 	<li><a href="https://guzferreira.github.io//assets/courses/COMS611-F2023-21-Aug-23.pdf">COMS 611: Popular Music/Media/Recommender Systems - Fall 2023</a></li><br>
 	<li><a href="https://guzferreira.github.io//assets/courses/COMS400-F2023-17-Oct-23.pdf">COMS 400: Critical Theory Seminar - Fall 2023</a></li><br>
  	<li><a href="https://guzferreira.github.io//assets/courses/COMS361-W2023-21-Mar-23.pdf">COMS 361: Selected Topics Communication Studies 1 – Radio and Audio Media Theories - Winter 2023</a></li><br>
