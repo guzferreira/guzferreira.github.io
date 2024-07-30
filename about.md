@@ -45,7 +45,7 @@ layout: page
 	
 </ul>
 
-<h3>McGill</h3>
+<h3>McGill University</h3>
 
 <h4>Graduate</h4>
 

@@ -1,6 +1,6 @@
 # main text of home
 name: Gustavo Ferreira
-bio: Researcher on Communication, Audio Media, and Music and AI Mediations
+bio: Assistant Professor, Teaching Stream, in Information and Technology Studies. Focused on Audio Media, and Music and AI Mediations.
 
 # twitter summary info
 description: Just a CV, ramblings and research
@@ -55,7 +55,7 @@ email: gf@gustavoferreira.org
 authors:
   Guzferreira:
     name: Gustavo Ferreira
-    bio: Researcher on Communication, Audio Media, and Music and AI Mediations
+    bio: Assistant Professor, Teaching Stream, in Information and Technology Studies. Focused on Audio Media, and Music and AI Mediations
     external-image: false
     picture: assets/images/profile.jpg
     twitter: guzferreira
