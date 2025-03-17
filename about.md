@@ -10,8 +10,8 @@ layout: page
 
 <!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1&theme=simple&fullnames=1"></script> -->
 
-<!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1"></script> -->
-<?php  $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira"); print_r($contents); ?> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1"></script>
+
 
 <h2>Teaching</h2>
 
