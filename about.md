@@ -10,7 +10,7 @@ layout: page
 
 <!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1&theme=simple&fullnames=1"></script> -->
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1&fullnames=1&group0=type&hidemenu=true"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1&fullnames=1&group0=type&hidemenu=true&sort=year"></script>
 
 
 <h2>Teaching</h2>
