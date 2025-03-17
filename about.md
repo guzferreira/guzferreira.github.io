@@ -8,7 +8,7 @@ layout: page
 
 <h2>Latest Publications</h2>
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fguzferreira&jsonp=1&theme=mila&fullnames=1"></script>
 
 <h2>Teaching</h2>
 
