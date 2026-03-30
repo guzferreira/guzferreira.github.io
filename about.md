@@ -22,9 +22,9 @@ layout: page
 <ul class="skill-list">
 	
 	<li>INF 1501: Introduction to Culture & Technology<br><a href="/assets/courses/UofT/INF1501-F2024-Ferreira-02Sept24.pdf" target="_blank" rel="noopener noreferrer">(Fall 2024)</a> <a href="/assets/courses/UofT/INF1501-F2025-Ferreira-28Aug.pdf" target="_blank" rel="noopener noreferrer">(Fall 2025)</a></li><br>
-	<li>INF 2112: Audio Cultures - <a href="/assets/courses/UofT/INF2112-Ferreira-F2025-28Aug.pdf" target="_blank" rel="noopener noreferrer">Fall 2025</a></li><br>
-	<li>INF 2321: Digital Culture - <a href="/assets/courses/UofT/INF2321-W2025-Ferreira-14 Jan.pdf" target="_blank" rel="noopener noreferrer">Winter 2025</a> <a href="/assets/courses/UofT/INF2321-Ferreira-W2026-13Jan.pdf" target="_blank" rel="noopener noreferrer">Winter 2026</a></li><br>
-	<li>INF 2530: AI and Cultural Curation - <a href="/assets/courses/UofT/INF2530-Ferreira-W2026-20Feb26.pdf" target="_blank" rel="noopener noreferrer">Winter 2026</a></li><br>
+	<li>INF 2112: Audio Cultures <a href="/assets/courses/UofT/INF2112-Ferreira-F2025-28Aug.pdf" target="_blank" rel="noopener noreferrer">(Fall 2025)</a></li><br>
+	<li>INF 2321: Digital Culture <a href="/assets/courses/UofT/INF2321-W2025-Ferreira-14 Jan.pdf" target="_blank" rel="noopener noreferrer">(Winter 2025)</a> <a href="/assets/courses/UofT/INF2321-Ferreira-W2026-13Jan.pdf" target="_blank" rel="noopener noreferrer">(Winter 2026)</a></li><br>
+	<li>INF 2530: AI and Cultural Curation <a href="/assets/courses/UofT/INF2530-Ferreira-W2026-20Feb26.pdf" target="_blank" rel="noopener noreferrer">(Winter 2026)</a></li><br>
 	
 </ul>
 
@@ -32,9 +32,9 @@ layout: page
 
 <ul class="skill-list">
 	
-	<li>INF 301: Integrative Approaches to Technology and Society<br><a href="/assets/courses/UofT/INF302-W2025-Ferreira-3Mar.pdf" target="_blank" rel="noopener noreferrer">Winter 2025</a> <a href="/assets/courses/UofT/INF302-W2026-Ferreira-adjusted-Feb13.pdf" target="_blank" rel="noopener noreferrer">Winter 2026</a></li><br>
-	<li>INF 430: Music, Information, Technology - <a href="/assets/courses/UofT/INF430-Ferreira-Fall2025-28Aug.pdf" target="_blank" rel="noopener noreferrer">Fall 2025</a></li><br>
-	<li>INF 430: The Material and Information Cultures of Music - <a href="/assets/courses/UofT/INF430-F2024-Ferreira-12Sept24.pdf" target="_blank" rel="noopener noreferrer">Fall 2024</a></li><br>
+	<li>INF 301: Integrative Approaches to Technology and Society<br><a href="/assets/courses/UofT/INF302-W2025-Ferreira-3Mar.pdf" target="_blank" rel="noopener noreferrer">(Winter 2025)</a> <a href="/assets/courses/UofT/INF302-W2026-Ferreira-adjusted-Feb13.pdf" target="_blank" rel="noopener noreferrer">(Winter 2026)</a></li><br>
+	<li>INF 430: Music, Information, Technology <a href="/assets/courses/UofT/INF430-Ferreira-Fall2025-28Aug.pdf" target="_blank" rel="noopener noreferrer">(Fall 2025)</a></li><br>
+	<li>INF 430: The Material and Information Cultures of Music <a href="/assets/courses/UofT/INF430-F2024-Ferreira-12Sept24.pdf" target="_blank" rel="noopener noreferrer">(Fall 2024)</a></li><br>
 	
 </ul>
 
