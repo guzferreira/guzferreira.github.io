@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Assistant Professor, Teaching Stream, of Information and Technology Studies at the University of Toronto. Researches Sound Culture, Audio Media, and AI Systems of Music Recommendation. Doctor of Communication from the Universidade do Estado do Rio de Janeiro State University (2020). Master in Communication from the Universidade Federal do Paraná (2014). Bachelor in Communication from Universidade Estadual do Centro Oeste (2008). </p>
+<p>Assistant Professor, Teaching Stream, of Information and Technology Studies at the University of Toronto. Researches Sound Culture, Audio Media, AI Culture, and Critical Pedagogies of Technology. Doctor of Communication from the Universidade do Estado do Rio de Janeiro State University (2020). Master in Communication from the Universidade Federal do Paraná (2014). Bachelor in Communication from Universidade Estadual do Centro Oeste (2008). </p>
 
 <h2>Latest Publications</h2>
 
