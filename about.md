@@ -21,8 +21,10 @@ layout: page
 
 <ul class="skill-list">
 	
-	<li><a href="#">INF 1501: Introduction to Culture & Technology - Fall 2024</a></li><br>
-	<li><a href="#">INF 2321: Digital Culture - Winter 2025</a></li><br>
+	<li>INF 1501: Introduction to Culture & Technology - <a href="/assets/courses/UofT/INF1501-F2024-Ferreira-02Sept24.pdf">(Fall 2024)</a> <a href="#">(Fall 2025)</a></li><br>
+	<li>INF 2112: Audio Cultures - <a href="#">Fall 2025</a></li><br>
+	<li>INF 2321: Digital Culture - <a href="#">Winter 2025</a> <a href="#">Winter 2026</a></li><br>
+	<li>INF 2530: AI and Cultural Curation - <a href="#">Winter 2026</a></li><br>
 	
 </ul>
 
@@ -30,8 +32,9 @@ layout: page
 
 <ul class="skill-list">
 	
-	<li><a href="#">INF 430: The Material and Information Cultures of Music - Fall 2024</a></li><br>
-	<li><a href="#">INF 301: Integrative Approaches to Technology and Society - Winter 2025</a></li><br>
+	<li>INF 301: Integrative Approaches to Technology and Society - <a href="#">Winter 2025</a> <a href="#">Winter 2026</a></li><br>
+	<li>INF 430: Music, Information, Technology - <a href="#">Fall 2025</a></li><br>
+	<li>INF 430: The Material and Information Cultures of Music - <a href="#">Fall 2024</a></li><br>
 	
 </ul>
 
